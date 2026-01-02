@@ -48,7 +48,9 @@ O projeto foi inicialmente desenvolvido e treinado no **Kaggle**, utilizando o a
 
 Posteriormente, o código foi **refatorado para rodar localmente**, com organização de arquitetura, paths e fluxo de execução, garantindo consistência entre ambientes cloud e local.
 
----
+📦 Dataset
 
-## 📁 Estrutura do projeto
+Este projeto utiliza o MNIST dataset em formato CSV.
+
+O arquivo original de treino ultrapassa o limite de 104MB imposto pelo GitHub, portanto o dataset está disponibilizado compactado em um arquivo .rar.
 
